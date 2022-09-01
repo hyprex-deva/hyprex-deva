@@ -16,7 +16,7 @@
 Discord
 <p>
   <a href="https://discordapp.com/users/692253352892825658/" title="badge authenticity">
-    <img src="https://github.com/hyprex-deva/Portfolio/blob/main/pinpng.com-discord-png-577085.png?raw=true" alt="Homepage" width="50" height="50"/>
+    <img src="https://github.com/hyprex-deva/Portfolio/blob/main/pinpng.com-discord-png-577085.png?raw=true" alt="Homepage" width="48" height="48"/>
   </a>
 </p>
 
