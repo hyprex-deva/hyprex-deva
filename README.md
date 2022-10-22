@@ -11,8 +11,10 @@
 💻Usually does gaming and coding to pass time. <br>
 🌱Language known are C/C++ and some of Java. <br>
 🔭Area of Interest is Computer Networking. <br>
-📫Wanna reach me !! <br>
 <br>
+![github stats](https://github-readme-stats.vercel.app/api?username=hyprex-deva&show_icons=true&theme=radical)
+<br>
+📫Wanna reach me !! <br>
 Discord
 <p>
   <a href="https://discordapp.com/users/692253352892825658/" title="badge authenticity">
