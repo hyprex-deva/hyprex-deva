@@ -7,6 +7,7 @@
 </picture> -->
 
 
+
 **Am just a casual Coder trying to master Backend Developing.**
 
 🎓I am currently studying B.Tech. <br>
@@ -16,11 +17,13 @@
 <br>
 ![github stats](https://github-readme-stats.vercel.app/api?username=hyprex-deva&show_icons=true&theme=radical)
 <br>
-📫Wanna reach me !! <br>
-Discord
+
 <p>
-  <a href="https://discordapp.com/users/692253352892825658/" title="badge authenticity">
-    <img src="https://github.com/hyprex-deva/Portfolio/blob/main/pinpng.com-discord-png-577085.png?raw=true" alt="Homepage" width="46" height="46"/>
-  </a>
+  <h2>Contacts</h2>
+  <a href="mailto:debapampal2002@gmail.com "><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg"></img></a></li>
 </p>
 
+
+<center>
+<img src="https://komarev.com/ghpvc/?username=hyprex-deva&label=People+Who+Viewed+My+Profile"
+     </center>
