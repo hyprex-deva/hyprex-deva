@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=1D9603&center=true&width=435&lines=Hello+there!!;Its+me+Hyprex;Welcome+to+my+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=1D9603&center=true&multiline=true&width=1000&height=80&lines=Hello+there!!;Its+me+Hyprex;Welcome+to+my+Profile)](https://git.io/typing-svg)
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hyprex-deva/Portfolio/blob/main/Screenshot%202022-08-30%20202715.jpg?raw=true">
