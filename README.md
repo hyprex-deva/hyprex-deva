@@ -35,9 +35,9 @@
 <h2 align="center">Activity</h2>
 <div align=center>
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=hyprex-deva&show_icons=true&theme=radical) -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyprex-deva&" alt="hyprex-deva" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyprex-deva&show_icons=true&locale=en" alt="hyprex-deva" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyprex-deva&show_icons=true&locale=en&layout=compact" alt="hyprex-deva" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyprex-deva&theme=dark" alt="hyprex-deva" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyprex-deva&show_icons=true&locale=en&theme=dark" alt="hyprex-deva" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyprex-deva&show_icons=true&locale=en&layout=compact&theme=dark" alt="hyprex-deva" /></p>
   </div>
 
 
