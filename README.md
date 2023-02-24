@@ -1,8 +1,10 @@
-<picture>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=1D9603&center=true&width=435&lines=Hello+there!!;Its+me+Hyprex;Welcome+to+my+Profile)](https://git.io/typing-svg)
+
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hyprex-deva/Portfolio/blob/main/Screenshot%202022-08-30%20202715.jpg?raw=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/hyprex-deva/Portfolio/blob/main/Screenshot%202022-08-30%20202715.jpg?raw=true">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+</picture> -->
 
 
 **Am just a casual Coder trying to master Backend Developing.**
