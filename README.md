@@ -10,9 +10,9 @@
 
 
 <div align=center>
-  <h3>Am just a casual Coder trying to master Backend Developing.</h3>
+  <h3>Am just a casual Coder trying to master Data.</h3>
 
-🎓I am currently studying B.Tech🎓 <br>
+<!-- 🎓I am currently studying B.Tech🎓 <br> -->
 💻Usually does gaming or coding in free time💻 <br>
 🌱 I’m a dedicated and fast learner🌱 <br>
   <br>
