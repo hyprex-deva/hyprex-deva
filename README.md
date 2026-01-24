@@ -10,11 +10,11 @@
 
 
 <div align=center>
-  <h3>Am just a casual Coder trying to master Data.</h3>
+  <h3>👋 Hi, I’m a coder exploring the world of Data Science and Machine Learning.</h3>
 
-<!-- 🎓I am currently studying B.Tech🎓 <br> -->
-💻Usually does gaming or coding in free time💻 <br>
-🌱 I’m a dedicated and fast learner🌱 <br>
+<!-- 🎓I am currently studying M.Tech🎓 <br> -->
+💻I spend my free time coding, experimenting with projects, and occasionally gaming💻 <br>
+🌱I’m a dedicated and fast learner, always curious to understand how things work and improve my skills🌱 <br>
   <br>
 <br>
 </div>
