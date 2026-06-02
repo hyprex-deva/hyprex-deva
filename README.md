@@ -144,16 +144,23 @@ Co-author of 4 IEEE-published research papers focusing on Machine Learning, Deep
 <div align=center>
 
 <img align="center" src="https://github-readme-stats.shion.dev/api?username=hyprex-deva&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="hyprex-deva" height="180" />
-<img align="center" src="https://streak-stats.demolab.com/?user=hyprex-deva&theme=radical&hide_border=false" alt="hyprex-deva" height="180" />
+<img align="center" src="https://streak-stats.demolab.com/?user=hyprex-deva&theme=radical&hide_border=false" alt="hyprex-deva" height="180" /> 
+
+</div>
+<br>
+<div align=center>
+
 <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hyprex-deva&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="hyprex-deva" height="200" />
+
+</div>
 
 <!---![](https://github-readme-stats.shion.dev/api?username=hyprex-deva&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=hyprex-deva&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hyprex-deva&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
-</div>
 
 
+<br>
 
 <div align=center>
 <img src="https://komarev.com/ghpvc/?username=hyprex-deva&style=for-the-badge&label=People+Who+Viewed+My+Profile"
