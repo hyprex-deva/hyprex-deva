@@ -142,18 +142,21 @@ Co-author of 4 IEEE-published research papers focusing on Machine Learning, Deep
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyprex-deva&show_icons=true&locale=en&layout=compact&theme=dark" alt="hyprex-deva" /></p>
   </div>
   
-<div align=center>
+<!-- <div align=center>
 
 <img align="center" src="https://github-readme-stats.shion.dev/api?username=hyprex-deva&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="hyprex-deva" />
 <img align="center" src="https://streak-stats.demolab.com/?user=hyprex-deva&theme=radical&hide_border=false" alt="hyprex-deva" /> 
 <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hyprex-deva&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="hyprex-deva" />
 
-</div>
+</div> -->
 
-<!---![](https://github-readme-stats.shion.dev/api?username=hyprex-deva&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=hyprex-deva&theme=radical&hide_border=false)<br/>
+<div align=center>
+
+![](https://github-readme-stats.shion.dev/api?username=hyprex-deva&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=hyprex-deva&theme=radical&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hyprex-deva&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
+
+</div>
 
 
 <br>
