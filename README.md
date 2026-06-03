@@ -24,7 +24,7 @@
 
 🔬 Co-author of 4 IEEE-published research papers in Machine Learning and Natural Language Processing. 🔬
 
-💻 Experienced with Python, Machine Learning, Deep Learning, and backend development. 💻
+💻 Hands on with Python, Machine Learning, Deep Learning, and backend development. 💻
 
 🚀 Passionate about building impactful projects and applying research to real-world problems. 🚀
 
